@@ -1,0 +1,11 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  min-height: 100vh;  /* Ensure full-screen height */
+  background: linear-gradient(#2400B7, #42006C);
+  overflow-x: hidden;  /* Prevent horizontal scrollbar */
+}
