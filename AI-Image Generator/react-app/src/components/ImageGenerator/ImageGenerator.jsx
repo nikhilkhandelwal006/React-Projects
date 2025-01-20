@@ -15,9 +15,7 @@ const ImageGenerator = () => {
             method:"POST",
             headers:{
                 "Content-Type":"application/json",
-                Authorization:
-                "Bearer API_KEY",
-                "User-Agent":"Chrome",
+             
             },
             body:JSON.stringify({
                 prompt:`${inputRef.current.value}`,
