@@ -1,6 +1,4 @@
 
----
-
 # 🌟 React Projects  
 
 Welcome to my repository of creative and functional frontend projects! 🚀 These projects showcase my expertise in **React.js**, **HTML**, **CSS**, and **JavaScript**, blending modern design principles with robust functionality.
@@ -8,13 +6,15 @@ Welcome to my repository of creative and functional frontend projects! 🚀 Thes
 ## 📜 Projects Overview  
 
 | **Project Name**          | **Description**                                                       
-|----------------------------|---------------------------------------------------------------------
-| **AI-Image Generator**     | A React-powered application to generate AI images from text prompts. 
+|----------------------------|------------------------------------------------------------------------
+| **AI-Image Generator**     | A React-powered application to generate AI images from text prompts.   
 | **Accordion Menu**         | A sleek accordion menu for expanding/collapsing content interactively. 
 | **Food Delivery Website**  | A responsive website showcasing a modern food delivery interface.    
-| **Signup/Login Form**      | User authentication form with field validation and dynamic feedback. 
-| **Quiz App**               | An interactive quiz application with instant feedback and results.   
-| **Website Header**         | A responsive and reusable website header with navigation links.      
+| **Signup/Login Form**      | User authentication form with field validation and dynamic feedback.   
+| **Netflix Clone**          | A clone of Netflix's user interface, showcasing React-based components.
+| **Portfolio Website**      | A personal portfolio to showcase projects and skills.                
+| **Quiz App**               | An interactive quiz application with instant feedback and results.     
+| **Website Header**         | A responsive and reusable website header with navigation links.        
 
 ---
 
@@ -24,7 +24,7 @@ Get started with these projects locally by following the steps below:
 
 1. **Clone the repository**  
    ```bash  
-   git clone https://github.com/nikhilkhandelwal006/your-repo-name.git  
+   git clone https://github.com/nikhilkhandelwal006/React Projects  
    ```  
 
 2. **Navigate to a project folder**  
@@ -47,9 +47,8 @@ Get started with these projects locally by following the steps below:
 ## 🔧 Technologies Used  
 
 - **Frontend Framework**: React.js  
-- **Styling**: CSS, 
+- **Styling**: CSS  
 - **Scripting**: JavaScript  
-
 
 ---
 
@@ -68,4 +67,3 @@ I’m always excited to collaborate on challenging projects or discuss new oppor
 - **GitHub**: [@nikhilkhandelwal006](https://github.com/nikhilkhandelwal006)  
 - **LinkedIn**: [Nikhil Khandelwal](https://www.linkedin.com/in/nikhil-khandelwal006/) 
 
----
