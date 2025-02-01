@@ -1,0 +1,116 @@
+.container {
+  height: 100vh;
+  width: 100vw;
+  background: rgb(206, 230, 231);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.login-container {
+  display: flex;
+
+  max-height: 80%;
+  border-radius: 0.8rem;
+}
+
+.im img {
+  height: 80vh;
+  width: 30vw;
+}
+.form {
+  background: rgb(3, 3, 51);
+  height: 80vh;
+  width: 30vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  align-items: center;
+  gap: 2rem;
+}
+
+.form h2 {
+  color: white;
+  font-size: 3rem;
+  font-weight: 500;
+}
+
+input {
+  height: 3rem;
+  width: 18rem;
+  border: none;
+  border-radius: 0.5rem;
+  outline: none;
+  padding: 0.5rem;
+  font-size: 16px;
+}
+
+input::placeholder {
+  font-size: 16px;
+  font-weight: 300;
+}
+.input-container {
+  position: relative;
+}
+
+.e {
+  padding-left: 40px; /* Space for the icon */
+  /* width: 100%; */
+}
+
+.input-container i {
+  position: absolute;
+  left: 10px;
+  top: 50%;
+
+  transform: translateY(-50%); /* Center the icon vertically */
+}
+.p {
+  padding-left: 25px; /* Space for the icon */
+  /* width: 100%; */
+}
+.input-container i {
+  position: absolute;
+  left: 10px;
+  top: 50%;
+
+  transform: translateY(-50%); /* Center the icon vertically */
+}
+
+.rem {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  justify-content: flex-start;
+  width: 60%;
+}
+.rem input {
+  height: 1rem;
+  width: auto;
+}
+
+.rem span {
+  color: white;
+  font-size: 1.1rem;
+}
+
+button {
+  background: green;
+  color: white;
+  height: 3.5rem;
+  width: 6rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  border: none;
+  border-radius: 0.8rem;
+  cursor: pointer;
+}
+
+.info {
+  padding-bottom: 20px;
+  color: white;
+  margin-block-start: 70px;
+}
+i#togglePassword {
+    left: 88%;
+}
